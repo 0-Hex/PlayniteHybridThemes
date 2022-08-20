@@ -1,0 +1,8 @@
+AddonId: HybridXboxGreen
+Packages:
+  - Version: 1.1
+    RequiredApiVersion: 2.0.0
+    ReleaseDate: 2022-08-20
+    PackageUrl: https://github.com/HexSupernatural/PlayniteHybridThemes/releases/download/v1.1/Xbox_Hybrid_1_1.pthm
+    Changelog:
+      - Initial Release
