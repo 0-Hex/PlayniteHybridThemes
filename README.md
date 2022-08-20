@@ -1,4 +1,4 @@
-A merging of the DH_Night https://github.com/MCC321-QC/eMixedNiteMC and eMixedNiteMC https://github.com/MCC321-QC/eMixedNiteMC Playnite Themes.
+A merging of the DH_Night https://github.com/felixkmh/DH_Themes and eMixedNiteMC https://github.com/MCC321-QC/eMixedNiteMC Playnite Themes.
 
 ### Detailed Info at:
 https://playnite.link/forum/thread-1296.html
