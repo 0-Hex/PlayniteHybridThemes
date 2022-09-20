@@ -6,3 +6,9 @@ Packages:
     PackageUrl: https://github.com/HexSupernatural/PlayniteHybridThemes/releases/download/v1.0/Hybrid_Red_1_0.pthm
     Changelog:
       - Initial Release
+  - Version: 1.2
+    RequiredApiVersion: 2.2.0
+    ReleaseDate: 2022-09-20
+    PackageUrl: https://github.com/0-Hex/PlayniteHybridThemes/releases/download/v1.2/Hybrid_Red_1_2.pthm
+    Changelog:
+      - Fix a bug causing drop down menus to not appear when editing game details in P10
