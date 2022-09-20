@@ -4,6 +4,7 @@ A merging of the DH_Night https://github.com/felixkmh/DH_Themes and eMixedNiteMC
 https://playnite.link/forum/thread-1296.html
 
 ### Screenshots:
-![](https://i.postimg.cc/xCjbKnWy/xboxscreenshot.png)
-![](https://i.postimg.cc/MHvMFtZn/redscreenshot.png)
-![](https://i.postimg.cc/Bv0Fnxpz/bluescreenshot.png)
+![](https://github.com/0-Hex/PlayniteHybridThemes/blob/main/Media/screenshot01faded.png)
+![](https://github.com/0-Hex/PlayniteHybridThemes/blob/main/Media/screenshot01xboxgreen.jpg)
+![](https://github.com/0-Hex/PlayniteHybridThemes/blob/main/Media/screenshot01blue.jpg)
+![](https://github.com/0-Hex/PlayniteHybridThemes/blob/main/Media/screenshot01red.jpg)
