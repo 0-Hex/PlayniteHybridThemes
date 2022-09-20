@@ -1,0 +1,8 @@
+AddonId: HybridRed
+Packages:
+  - Version: 1.2
+    RequiredApiVersion: 2.2.0
+    ReleaseDate: 2022-09-20
+    PackageUrl: https://github.com/0-Hex/PlayniteHybridThemes/releases/download/v1.2/Hybrid_Faded_1_2.pthm
+    Changelog:
+      - Initial Release
